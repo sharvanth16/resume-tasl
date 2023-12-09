@@ -1,0 +1,36 @@
+{
+    "personal_info": {
+        "name": "Sharvanth",
+        "email": "sharvanthbalakrishnan16@gmail.com",
+        "phone": "+9789411367",
+        "address": {
+            "street": "mettu street",
+            "city": "kuthalam",
+            "state": "TamilNadu",
+            "zip": "609801"
+        }
+    },
+    "education": [
+        {
+            "institution": "Anna Unversity ,Chennai",
+            "degree": "Bachelor of Technology in Petroleum engineering and technology",
+            "graduation_year": 2027
+        },
+        {
+            "institution": "Dr.G.S.K.Higher secondary School",
+            "degree": "HSC",
+            "graduation_year": 2023
+        }
+    ],
+   
+    "skills": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Git",
+        "Agile methodologies",
+        "Problem-solving",
+        "Teamwork",
+        "Communication"
+    ]
+}
